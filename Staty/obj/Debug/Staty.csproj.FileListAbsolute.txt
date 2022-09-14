@@ -1,0 +1,14 @@
+C:\Users\kempur\Desktop\inż\Staty\Staty\bin\Debug\Staty.exe.config
+C:\Users\kempur\Desktop\inż\Staty\Staty\bin\Debug\Staty.exe
+C:\Users\kempur\Desktop\inż\Staty\Staty\bin\Debug\Staty.pdb
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.csproj.AssemblyReference.cache
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.csproj.SuggestedBindingRedirects.cache
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.Login.resources
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.Properties.Resources.resources
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.csproj.GenerateResource.cache
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.csproj.CoreCompileInputs.cache
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.exe
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.pdb
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.Add.resources
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.Edit.resources
+C:\Users\kempur\Desktop\inż\Staty\Staty\obj\Debug\Staty.Stats.resources
